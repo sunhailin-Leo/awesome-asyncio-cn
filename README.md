@@ -50,6 +50,7 @@ Python 3.4 引入了 Asyncio 模块作为标准库，通过协程、多路 I/O �
 * [aioamqp](https://github.com/Polyconseil/aioamqp) - 使用 Asyncio 异步执行 AMQP。
 * [aiozmq](https://github.com/aio-libs/aiozmq) - 集成了 Asyncio (pep 3156) 的 ZeroMQ。
 * [crossbar](https://github.com/crossbario/crossbar) - Crossbar.io 是提供分布式和微服务应用的网络平台。
+* [aiokafka](https://github.com/aio-libs/aiokafka) - 使用 Asyncio 作为Kafka的客户端
 
 ## 数据库驱动
 
