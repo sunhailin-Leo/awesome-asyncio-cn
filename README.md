@@ -105,6 +105,7 @@ Python 3.4 引入了 Asyncio 模块作为标准库，通过协程、多路 I/O �
 * [aiorun](https://github.com/cjrh/aiorun) - 提供处理通用 Asyncio 样板，启动和关闭事件驱动的 `run` 函数。
 * [aiozipkin](https://github.com/aio-libs/aiozipkin) - 使用 zipkin 的分布式 Asyncio 追踪测量仪。
 * [faust](https://github.com/robinhood/faust) - 纯 Python 的流处理库，用于处理流数据和事件。
+* [janus](https://github.com/aio-libs/janus) - 同步异步混合Queue，支持同步和异步代码间的消息互通
 
 ## 文献
 
